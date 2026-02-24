@@ -10,19 +10,36 @@ Přejdi na oficiální stránku:
 
 👉 https://stag.tul.cz/
 
-Klikni na tlačítko **„Přihlásit se“** a přihlas se svými údaji.
+Klikni na tlačítko **„Přihlásit se“**.
+
+![Login stránka](login.png)
 
 ---
 
-## 2️⃣ Sekce „Moje studium“
+## 2️⃣ Přihlášení
+
+Vyplň své přihlašovací údaje:
+
+- Uživatelské jméno  
+- Heslo  
+
+Klikni na tlačítko **„PŘIHLÁŠENÍ“**.
+
+![Vyplnění údajů](udaje.png)
+
+---
+
+## 3️⃣ Sekce „Moje studium“
 
 Po přihlášení klikni v horním menu na:
 
 ➡ **Moje studium**
 
+![Moje studium](studium.png)
+
 ---
 
-## 3️⃣ Průběh studia
+## 4️⃣ Průběh studia
 
 V levém menu klikni na:
 
@@ -30,20 +47,20 @@ V levém menu klikni na:
 
 ---
 
-## 4️⃣ Rozvrh
+## 5️⃣ Rozvrh
 
 Sjeď dolů na část **Rozvrh**.
 
 V rozvrhu:
 
-- Najdi předmět, který chceš zjistit (červený obdélník)
+- Najdi předmět, který chceš zjistit (červený obdélník)  
 - Klikni na název předmětu (zelený obdélník)
 
 ![Rozvrh](rozvrh.png)
 
 ---
 
-## 5️⃣ Vyučující
+## 6️⃣ Vyučující
 
 Na stránce předmětu sjeď úplně dolů.
 
