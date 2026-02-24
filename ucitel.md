@@ -39,15 +39,7 @@ Po přihlášení klikni v horním menu na:
 
 ---
 
-## 4️⃣ Průběh studia
-
-V levém menu klikni na:
-
-➡ **Průběh studia**
-
----
-
-## 5️⃣ Rozvrh
+## 4️⃣ Rozvrh
 
 Sjeď dolů na část **Rozvrh**.
 
@@ -60,7 +52,7 @@ V rozvrhu:
 
 ---
 
-## 6️⃣ Vyučující
+## 5️⃣ Vyučující
 
 Na stránce předmětu sjeď úplně dolů.
 
