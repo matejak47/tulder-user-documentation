@@ -43,7 +43,7 @@ Po přihlášení klikni v horním menu na:
 
 V přehledu klikni na:
 
-➡ **Místnosti** (červeně označeno)
+➡ **Místnosti**
 
 ![Místnosti](mistnosti.png)
 
@@ -51,17 +51,23 @@ V přehledu klikni na:
 
 ## 5️⃣ Vyhledání místnosti
 
-V horní části stránky můžeš zadat parametry místnosti:
+V horní části stránky je vyhledávací formulář.
 
-- Budova  
-- Číslo místnosti  
+⚠️ **Je nutné minimálně vyplnit:**
+- **Budova**
+- **Číslo místnosti**
+
+Bez těchto údajů nebude možné místnost správně vyhledat.
+
+Volitelně můžeš vyplnit i další parametry:
 - Pracoviště  
-- Kapacita  
+- Typ  
+- Kapacitu  
 - a další filtry  
 
 Poté klikni na tlačítko **„Hledat“**.
 
-Po vyhledání klikni na konkrétní místnost (např. Detail).
+Po zobrazení výsledků klikni na konkrétní místnost (např. „Detail“).
 
 ---
 
